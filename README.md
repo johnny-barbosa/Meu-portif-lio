@@ -12,6 +12,7 @@ Atualmente estou em transição para a área de tecnologia, com foco em:
 
 - 🤖 **RPA (Robotic Process Automation)**
 - 🔧 **Desenvolvimento Back-end com C# (.NET / Web API)**
+- ☕ **Desenvolvimento Back-end com Java (Spring Boot)**
 - 🌐 **Integração Front-end com Angular**
 - 🧠 Automação inteligente de processos administrativos
 
@@ -28,7 +29,9 @@ Atualmente estou em transição para a área de tecnologia, com foco em:
 ### 🔹 Back-end
 - C#  
 - .NET  
-- Web API (REST)
+- Web API (REST)  
+- Java  
+- Spring Boot  
 
 ### 🔹 Front-end
 - Angular  
@@ -47,7 +50,8 @@ Atualmente estou em transição para a área de tecnologia, com foco em:
 ## 📚 Estudos em andamento
 
 - Desenvolvimento de **APIs REST** com C# (.NET)
-- Arquitetura de aplicações Web API
+- Desenvolvimento de **APIs REST com Java e Spring Boot**
+- Arquitetura de aplicações Web API e Spring
 - Integração de sistemas via REST
 - Consumo de APIs com Angular
 - CRUD, Controllers, Services e DTOs
@@ -58,7 +62,8 @@ Atualmente estou em transição para a área de tecnologia, com foco em:
 ## 🛠️ Projetos (em desenvolvimento)
 
 - API REST em C# para cadastro e consulta de dados  
-- Front-end Angular consumindo API REST  
+- API REST com Java e Spring Boot  
+- Front-end Angular consumindo APIs REST  
 - Automações RPA para rotinas administrativas  
 - Integração entre sistemas corporativos  
 
@@ -68,7 +73,7 @@ Atualmente estou em transição para a área de tecnologia, com foco em:
 
 Atuar como **desenvolvedor Back-end ou especialista em RPA**, utilizando:
 
-- **C#** para desenvolvimento de APIs
+- **C# ou Java (Spring Boot)** para desenvolvimento de APIs
 - **Python** aplicado à automação de processos
 - Integração entre sistemas
 - Otimização de rotinas administrativas através da tecnologia
