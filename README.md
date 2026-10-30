@@ -1,91 +1,94 @@
 # 💼 Portfólio Profissional — Johnny Barbosa Macedo
 
-Este repositório contém meu portfólio pessoal em formato web, desenvolvido em **HTML e CSS**, com o objetivo de apresentar minha trajetória profissional, formação, competências técnicas e estudos atuais nas áreas de **RPA, desenvolvimento de APIs e integração de sistemas**.
-
----
+Portfólio pessoal desenvolvido em **HTML e CSS** para apresentar minha trajetória profissional, formação, competências técnicas e projetos nas áreas de **desenvolvimento de software, infraestrutura, monitoramento e automação**.
 
 ## 👤 Sobre mim
 
-Sou formado em **Sistemas de Informação** e atuo profissionalmente na área **administrativa/financeira**, com forte foco em **automação de processos**, integração de sistemas e tecnologia aplicada à eficiência operacional.
+Sou bacharel em **Sistemas de Informação** e tenho experiência profissional nas áreas administrativa, financeira e de suporte em tecnologia.
 
-Atualmente estou em transição para a área de tecnologia, com foco em:
+Atualmente, direciono meus estudos e projetos para:
 
-- 🤖 **RPA (Robotic Process Automation)**
-- 🔧 **Desenvolvimento Back-end com C# (.NET / Web API)**
-- ☕ **Desenvolvimento Back-end com Java (Spring Boot)**
-- 🌐 **Integração Front-end com Angular**
-- 🧠 Automação inteligente de processos administrativos
+- ☕ Desenvolvimento back-end com **Java e Spring Boot**
+- 🌐 Desenvolvimento front-end com **Angular**
+- 🖥️ Infraestrutura e monitoramento com **Zabbix, SNMP e Linux**
+- 🤖 Automação de processos com **Python e ferramentas RPA**
+- 🗄️ Bancos de dados relacionais, especialmente **PostgreSQL**
 
----
+## 🚀 Tecnologias e ferramentas
 
-## 🚀 Tecnologias e Ferramentas
+### Desenvolvimento back-end
+- Java
+- Spring Boot
+- APIs REST
+- Spring Data JPA / Hibernate
+- DTOs, validações e tratamento de exceções
+- PostgreSQL
 
-### 🔹 Automação (RPA)
-- Python aplicado à automação
+### Desenvolvimento front-end
+- Angular
+- TypeScript e JavaScript
+- HTML5 e CSS3
+
+### Infraestrutura e monitoramento
+- Zabbix 7.4
+- SNMP
+- Debian / Linux
+- PostgreSQL
+- Fundamentos de redes, IP e DNS
+
+### Automação (RPA)
+- Python
 - BotCity
 - UiPath
 - Power Automate Desktop
 
-### 🔹 Back-end
-- C#  
-- .NET  
-- Web API (REST)  
-- Java  
-- Spring Boot  
+### Ferramentas
+- Git e GitHub
+- Maven
+- IntelliJ IDEA
+- Postman
 
-### 🔹 Front-end
-- Angular  
-- JavaScript  
-- HTML5  
-- CSS3  
+## 🛠️ Projetos
 
-### 🔹 Outros
-- Git & GitHub  
-- Linux  
-- Versionamento de código  
-- Boas práticas de integração entre sistemas  
+### Bounty System
+Projeto de gerenciamento desenvolvido com Java e Spring Boot.
 
----
+- API REST com operações CRUD para piratas, tripulações e usuários.
+- Persistência com Spring Data JPA e PostgreSQL.
+- Validação de dados e tratamento global de exceções.
+- Frontend Angular em desenvolvimento.
 
-## 📚 Estudos em andamento
+### Laboratório de monitoramento com Zabbix
+Estudos práticos em ambiente Linux/Debian com Zabbix 7.4, incluindo configuração de monitoramento e testes de comunicação via SNMP.
 
-- Desenvolvimento de **APIs REST** com C# (.NET)
-- Desenvolvimento de **APIs REST com Java e Spring Boot**
-- Arquitetura de aplicações Web API e Spring
-- Integração de sistemas via REST
-- Consumo de APIs com Angular
-- CRUD, Controllers, Services e DTOs
-- Automação de processos administrativos com RPA
+### Automações RPA
+Estudos e projetos de automação de rotinas administrativas utilizando Python e ferramentas RPA.
 
----
+## 🎓 Formação
 
-## 🛠️ Projetos (em desenvolvimento)
+**Bacharel em Sistemas de Informação** — conclusão em setembro de 2020.
 
-- API REST em C# para cadastro e consulta de dados  
-- API REST com Java e Spring Boot  
-- Front-end Angular consumindo APIs REST  
-- Automações RPA para rotinas administrativas  
-- Integração entre sistemas corporativos  
+## 📜 Certificados
 
----
+- [Formação — HTML e CSS para projetos web (Alura)](https://cursos.alura.com.br/user/johnnygouki/degree-html-css-v527396-527396/certificate)
+- [Formação — Iniciante em Programação (Alura)](https://cursos.alura.com.br/user/johnnygouki/degree-programacao-v531534-531534/certificate)
+- [Formação — Java com Orientação a Objetos (Alura)](https://cursos.alura.com.br/user/johnnygouki/degree-java-568827/certificate)
+- [Curso Completo de Desenvolvedor RPA com UiPath (Udemy)](https://www.udemy.com/certificate/UC-04add5c3-1788-4b7f-a337-2d84afde0664/)
+- [Python RPA com BotCity (Udemy)](https://www.udemy.com/certificate/UC-6f102d39-48f3-4c56-b46c-7adeee1143e2/)
+- [Power Automate Desktop (Udemy)](https://www.udemy.com/certificate/UC-b70148ef-8da3-4a46-8919-4ab00638572e/)
+- [Terminal Linux (Udemy)](https://www.udemy.com/certificate/UC-bd83668c-82b4-4e12-8bae-aeb02f0bf897/)
 
-## 🎯 Objetivo profissional
+## 📬 Contato
 
-Atuar como **desenvolvedor Back-end ou especialista em RPA**, utilizando:
-
-- **C# ou Java (Spring Boot)** para desenvolvimento de APIs
-- **Python** aplicado à automação de processos
-- Integração entre sistemas
-- Otimização de rotinas administrativas através da tecnologia
-
-Buscando unir conhecimento técnico com experiência administrativa para gerar soluções eficientes e escaláveis.
-
----
+- [LinkedIn](https://www.linkedin.com/in/johnny-barbosa-macedo-997a0a111/)
+- [GitHub](https://github.com/johnny-barbosa)
+- Email: johnnygouki@gmail.com
 
 ## 📂 Estrutura do projeto
 
-```txt
+```text
 /
 ├── index.html
 ├── style.css
 └── README.md
+```
